@@ -1,0 +1,47 @@
+Bhargav Das
++91 9871079256 | erbhargavdas@gmail.com | linkedin.com/in/bhrgvbhrgv | github.com/bhrgvbhrgv
+Education
+Baderia Global Institute of Engineering & Management Jabalpur
+Bachelor of Technology in Computer Science July 2022 - July 2026
+Aditya Convent Senior Secondary School Jabalpur
+Class XII July 2021 - July 2022
+Experience
+Freelanced — Full-Stack Web Developer Aug 2024 - Sept 2024
+Creative Interior India
+• Tech Stack: React.js, Next.js, CSS, Firebase
+• Achieved 90+ Google Lighthouse scores in performance, accessibility, and SEO through optimized architecture and
+clean code.
+• Attracted 1,000+ unique visitors within the first 3 months of launch through SEO and social sharing.
+• Integrated Firebase for scalable backend services including real-time database and secure hosting, ensuring 99.9%
+uptime.
+• Live Link: https://creativeconstruction.in/
+Internship: Front-End Web Developer Mar 2023 - May 2023
+DAO Info-Tech
+• Contributed to the development and launch of 6+ business websites, increasing client visibility and engagement by
+up to 40%.
+• Gained hands-on experience with HTML, CSS, JavaScript, and modern frameworks (e.g., React.js), reducing
+development time by 25% through reusable components.
+• Assisted in debugging and performance optimization, leading to 30% faster page load speeds and improved user
+retention.
+• Ensured mobile responsiveness across 20+ device breakpoints, improving cross-platform accessibility scores by 15%.
+Projects
+StreamTweet | React, Axios, Express, Mongoose, Multer, JWT and Bycrpt May 2025 – May 2025
+• Developed a full-stack web application that integrates core functionalities of YouTube and Twitter using React.js,
+Node.js, Express, and MongoDB.
+• Designed and implemented video upload, streaming, commenting, and like features to simulate YouTube’s user
+experience.
+• Built Twitter-style post creation, feed rendering, and user interaction modules including retweets, likes, share and
+replies.
+• Managed user authentication, session handling, and role-based access control with JWT and bcrypt for secure login
+and operations.
+LiveConnect | React, Axios, Socket.io, Express, Mongoose June 2025 – June 2025
+• Built a real-time chat application using the MERN stack and Socket.io for bidirectional communication.
+• Designedandimplementedover10RESTfulAPIroutesformessagehandling, usermanagement, andchatrooms.
+• Developed the frontend using React.js and integrated multiple third-party libraries including Axios and React
+Router.
+• Used MongoDB to store user profiles and chat logs with efficient schema design and querying.
+Technical Skills
+Languages: JavaScript, HTML/CSS, C++, SQL, Python
+Frameworks: React.js, Node.js, Express.js, Tailwind CSS
+Libraries: MongoDB, THREE.js
+Developer Tools: Git, RESTful APIs, User Testing Tools

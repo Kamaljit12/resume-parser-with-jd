@@ -1,0 +1,10 @@
+pandas==2.3.2
+numpy==2.3.2
+pypdf==6.0.0
+pdfplumber==0.11.7
+docx2txt==0.9
+sentence-transformers==5.1.0
+langchain_groq
+python-dotenv
+langchain==0.3.27
+streamlit==1.38.0
